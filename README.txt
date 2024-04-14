@@ -3,7 +3,7 @@ Project Version 2: Health and Fitness Club Management System
 
 Link to Video: https://youtu.be/BVwPb77fRFU
 
-In the folder SQL it contains the files ddl.sql to create the table and
+In the SQL folder it contains the files ddl.sql to create the table and
 dml.sql for the insertion of the initial data set.
 
 In the folder diagrams it contains both the ER diagram and the Relational Database Schema. The assumptions can be
