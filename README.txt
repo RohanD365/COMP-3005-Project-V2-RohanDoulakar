@@ -9,8 +9,6 @@ dml.sql for the insertion of the initial data set.
 In the folder diagrams it contains both the ER diagram and the Relational Database Schema. The assumptions can be
 found in the project report. 
 
-In the folder project report it contains the report in a pdf file where the assumptions are stated.  
-
 In the Main.java the main function establishes a connection with the database and an object database is created where it calls the appropriate function to execute the SQL query.
 Each sql query is in a separate function which can be called when required.
 The user is first asked whether the user is a member, admin, trainer, or if the user would like to exit the application.
